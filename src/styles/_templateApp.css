@@ -1,0 +1,14 @@
+body {
+  background-color: #c7c8d2;
+  color: #240c7e;
+
+  margin: 0;
+  min-block-size: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  text-align: center;
+}
